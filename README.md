@@ -1,3 +1,7 @@
+# NOTE: 
+
+All future development for this project is moved to https://github.com/scimma/slackbot
+
 # GW-Bot
 
 Slack alert bot for `LIGO 04` gravitational wave alerts via Scimma's Hopskotch. 
